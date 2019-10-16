@@ -10,3 +10,4 @@
 - [王沪宁《政治人生》读感](PoliticalLife.md)
 - [《三大思考工具轻松解决问题》学习笔记](ToolsOfThought.md)
 - [有意思的云服务收藏夹](CloudServices.md)
+- [锐途云架构设计资料集](ArchDesign.md)
