@@ -134,4 +134,83 @@ var reverseBetween = function(head, m, n) {
 
 ### 两个一组反转链表
 
+题目
+
+```
+输入: [1,2,3,4]
+输出: [2,1,4,3]
+```
+
+##### 循环解
+
+```js
+var swapPairs = function(head) {
+    if (head == null || head.next == null) return head
+
+    let p = dummyHead = new ListNode()
+    p.next = head
+
+    let node1, node2
+
+    while((node1 = p.next) && (node2 = p.next.next)) {
+        node1.next = node2.next
+        node2.next = node1
+        p.next = node2
+        p = node1
+    }
+
+    return dummyHead.next
+};
+```
+
+##### 递归解
+
+```js
+var swapPairs = function(head) {
+    if (head == null || head.next == null) return head
+
+    let node1 = head, node2 = head.next
+
+    node1.next = swapPairs(node2.next)
+    node2.next = node1
+
+    return node2
+};
+```
+
 ### K个一组反转链表
+
+```
+输入: [1, 2, 3, 4, 5] 2
+输出：[2, 1, 4, 3, 5]
+
+输入: [1, 2, 3, 4, 5] 3
+输出: [3, 2, 1, 4, 5]
+```
+
+##### 递归解
+
+```js
+var reverseKGroup = function(head, k) {
+    let p = head, cur = head, pre = null
+    let before = p
+
+    for (var i = 0; i < k; i++) {
+        if (!p) return head
+        p = p.next
+    }
+
+    for (let i = 0; i < k; i++) {
+        let tmp = cur.next
+        cur.next = pre
+        pre = cur
+        cur = tmp
+    }
+
+    head.next = reverseKGroup(cur, k)
+
+    return pre
+};
+```
+
+##### 循环解
