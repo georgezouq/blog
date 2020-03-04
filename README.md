@@ -5,9 +5,7 @@
 ### 技术
 
 - [数据结构与算法学习笔记集](./note/algorithm/README.md)
-- [前端面试题集](https://github.com/georgezouq/interview/blob/master/FE/README.md)
-- [Python面试题集](https://github.com/georgezouq/interview/blob/master/Python/README.md)
-- [Java面试题集](https://github.com/georgezouq/interview/blob/master/Java/README.md)
+- [前端面试题集](https://github.com/georgezouq/interview)
 - [锐途云架构设计资料集](ArchDesign.md)
 - [NOTE for: Tasks, microtasks, queues and schedules](https://georgezouq.github.io/2018/01/09/NOTE-Task-Microtask-Queues-and-Schedules/): 
 - [CAP(Consistency,Availability,Partition Tolerance)理论学习](https://georgezouq.github.io/2016/07/13/CAP-Consistency-Availability-Partition-Tolerance-%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0/)
@@ -19,24 +17,25 @@
 
 - [从项目实践探寻IM客户端设计常见问题](./articles/im.md)
 
-预告：
+TODO：
 
-- [微前端 + 微服务 + 云原生，全栈一体化架构 —— 我们为什么需要 Arrplat]()
+- [微前端 + 微服务 + 云原生，全栈一体化架构方案 —— 我们为什么需要 Arrplat]()
 - [ReactNative 的 1、2、3]()
 - [编程的未来 —— 业务领域模型与低代码平台]()
 - [我们该如何Push项目 —— 浅谈微敏捷项目管理之道]()
 
 ### 书评
 
-- [阿里局 书评及摘抄](book/阿里局.md)
-- [王沪宁《政治人生》读感](PoliticalLife.md)
-- [百年孤独 书评及摘抄](book/Cienañosdesoledad.md)
-- [《三大思考工具轻松解决问题》学习笔记](ToolsOfThought.md)
+- [书单](book/BookList.md)
+- [《阿里局》 书评及摘抄](book/阿里局.md)
+- [王沪宁《政治人生》读感](book/PoliticalLife.md)
+- [《百年孤独》 书评及摘抄](book/Cienañosdesoledad.md)
+- [《三大思考工具轻松解决问题》学习笔记](book/ToolsOfThought.md)
+- [《君主论》摘抄](book/君主论.md)
 
 ### 其他
 
 - [文字的力量 - 书、文章、电影、诗词摘抄](ThePowerofWords.md)
-- [书单](BookList.md)
 - [脑洞：如果一切归零，如何东山再起](IfNothingWhatToDo.md)
 - [《肖申克的救赎》观后感](TheShawshankRedemption.md)
 - [有意思的云服务收藏夹](CloudServices.md)
