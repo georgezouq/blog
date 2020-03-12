@@ -4,14 +4,14 @@
 
 ### 技术
 
-- [数据结构与算法学习笔记集](./note/algorithm/README.md)
+- [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
 - [前端面试题集](https://github.com/georgezouq/interview)
 - [锐途云架构设计资料集](ArchDesign.md)
 - [NOTE for: Tasks, microtasks, queues and schedules](https://georgezouq.github.io/2018/01/09/NOTE-Task-Microtask-Queues-and-Schedules/): 
 - [CAP(Consistency,Availability,Partition Tolerance)理论学习](https://georgezouq.github.io/2016/07/13/CAP-Consistency-Availability-Partition-Tolerance-%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0/)
 - [MQTT 协议 理论篇](https://georgezouq.github.io/2016/06/27/MQTT%20Agreement%20Basics/)
 - [基于 Redis 的三总分布式爬虫策略](https://georgezouq.github.io/2016/06/27/%E5%9F%BA%E4%BA%8ERedis%E7%9A%84%E4%B8%89%E7%A7%8D%E5%88%86%E5%B8%83%E5%BC%8F%E7%88%AC%E8%99%AB%E7%AD%96%E7%95%A5/)
-- [awesome-deep-reinforcement-learning-in-finance](https://github.com/georgezouq/awesome-deep-reinforcement-learning-in-finance)
+- [数据结构与算法学习笔记集](./note/algorithm/README.md)
 
 ### 项目复盘
 
