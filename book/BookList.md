@@ -38,11 +38,11 @@
 
 ## 架构/软件工程/技术管理
 
-- [ ] [学习敏捷：构建高效团队](https://book.douban.com/subject/26979886/)
 - [x] 系统之美 - 决策者的系统思考
+- [ ] [人月神话](https://book.douban.com/subject/2230248/)
+- [ ] [学习敏捷：构建高效团队](https://book.douban.com/subject/26979886/)
 - [ ] 软件熵
 - [ ] 企业级业务架构设计
-- [ ] [人月神话](https://book.douban.com/subject/2230248/)
 - [ ] [人件](https://book.douban.com/subject/25956450/)
 
 ## 管理/商业
@@ -70,6 +70,7 @@
 - [ ] 霍乱时期的爱情
 - [ ] 麦田里的守望者
 - [ ] 一个孤独漫步者的遐想
+- [ ] 重读古典
 
 ## 历史/社会/政治
 
@@ -78,8 +79,10 @@
 - [x] 希特勒传
 - [x] 人类简史
 - [x] 光荣与梦想
+- [ ] [青年变革者 梁启超](https://book.douban.com/subject/33393524/)
 - [ ] [万古河山：中国历史文化的转折与开展](https://book.douban.com/subject/27591495/)
 - [ ] [跨越边界的社区](https://m.douban.com/book/subject/1051928/)
+- [ ] 大清相国
 
 ## 量化/金融
 
