@@ -22,6 +22,9 @@
 
 - [混沌理论 与 金融市场 —— 寻找确定性漩涡](./articles/混沌理论与金融市场寻找确定性漩涡.md)
 - [How people use AI in finance](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4)
+- [量化日记: 数字货币的共识与不确定性](./articles/量化日记20180814.md)
+- [量化日记：指标实践及理解](./articles/量化日记20180811.md)
+- [量化日记：策略的坚持与变通](./articles/量化日记20180802.md)
 
 ### 书评
 
