@@ -5,6 +5,7 @@
 ### 软件工程
 
 - [我的轻敏捷技术管理方法论](./articles/我的轻敏捷技术管理方法论.md)
+- [企业级业务架构设计](./book/企业级业务架构.md)
 - [前端面试题集](https://github.com/georgezouq/interview)
 - [JS数据结构与算法 题解&笔记集](./note/algorithm/README.md)
 - [2013年的一段演讲：思考React最佳实践](./talk/RethinkReactBasePractice.md)
@@ -20,7 +21,7 @@
 
 ### 金融
 
-- [混沌理论 与 金融市场 —— 寻找确定性漩涡](./articles/混沌理论与金融市场寻找确定性漩涡.md)
+- [驾驭市场的随机性 —— 寻找确定性漩涡](./articles/混沌理论与金融市场寻找确定性漩涡.md)
 - [How people use AI in finance](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4)
 - [量化日记: 数字货币的共识与不确定性](./articles/量化日记20180814.md)
 - [量化日记：指标实践及理解](./articles/量化日记20180811.md)
