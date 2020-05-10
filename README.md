@@ -41,6 +41,7 @@
 
 - [书单](book/BookList.md)
 - [歌单](./SongList.md)
+- [文学的悲喜](./articles/文学的悲喜.md)
 - [高效工作/学习的小技巧](articles/高效能的小技巧.md)
 - [文字的力量 - 书、文章、电影、诗词摘抄](ThePowerofWords.md)
 - [脑洞：如果一切归零，如何东山再起](IfNothingWhatToDo.md)
