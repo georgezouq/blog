@@ -43,6 +43,7 @@
 
 - [书单](book/BookList.md)
 - [歌单](./SongList.md)
+- [商业智能（BI）产品研究]()
 - [文学的悲喜](./articles/文学的悲喜.md)
 - [高效工作/学习的小技巧](articles/高效能的小技巧.md)
 - [文字的力量 - 书、文章、电影、诗词摘抄](ThePowerofWords.md)
