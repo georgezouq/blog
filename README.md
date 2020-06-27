@@ -4,10 +4,11 @@
 
 ### 软件工程
 
+- [Vue3.0 性能优化及新特性深度解析](https://juejin.im/post/5ef576605188252e5c575645)
 - [我的轻敏捷技术管理方法论](./articles/我的轻敏捷技术管理方法论.md)
 - [超大型高并发系统架构的阿里经验](./articles/超大型高并发系统架构的阿里经验.md)
 - [企业级业务架构设计](./book/企业级业务架构.md)
-
+- [软件工程奇淫巧技及优秀文章收藏夹](./articles/软件工程奇淫巧集及优秀文章收藏夹.md)
 - [前端面试题集](https://github.com/georgezouq/interview)
 - [JS数据结构与算法 题解&笔记集](./note/algorithm/README.md)
 - [2013年的一段演讲：思考React最佳实践](./talk/RethinkReactBasePractice.md)
