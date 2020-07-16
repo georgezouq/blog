@@ -8,8 +8,7 @@
 
 ### 技术分享 PPT
 
-- [从BI项⽬实践思考软件复杂度控制的常⻅⽅法 (2020)](./articles/从BI项目实践思考软件，复杂度控制的常见方法.pdf)
-- [量子力学 —— 认识不确定的世界 (2018)](https://slides.com/georgezou/deck-4)
+- [从BI项⽬实践思考软件复杂度控制的常⻅⽅法 (2020)](./articles/从BI项目实践思考软件复杂度控制的常见方法.pdf)
 - [机器学习入门 之 股票价格时序数据分析 (2017)](https://slides.com/georgezou/title-text)
 - [自动化测试 之 单元测试 (2017)](https://slides.com/georgezou/unit-test)
 - [IM ARCHITECTURE OPTIMIZATION (2017)](https://slides.com/georgezou/deck)
