@@ -53,16 +53,19 @@
 - [《三大思考工具轻松解决问题》学习笔记](book/ToolsOfThought.md)
 - [《君主论》摘抄](book/君主论.md)
 
+### 杂文
+
+- [事物背后的逻辑](./articles/事物背后的逻辑.md)
+- [从文化角度思考美国底层的悲歌](./articles/从文化角度思考美国底层的悲歌.md)
+- [文学的悲喜](./articles/文学的悲喜.md)
+
 ### 其他
 
 - [书单](book/BookList.md)
 - [歌单](./SongList.md)
 - [入世集 - 当代社会研究书单](book/入世集.md)
 - [商业智能产品研究（1）—— 重新思考商业智能定义](./articles/商业智能产品研究1.md)
-- [从文化角度思考美国底层的悲歌](./articles/从文化角度思考美国底层的悲歌.md)
-- [文学的悲喜](./articles/文学的悲喜.md)
 - [高效工作/学习的小技巧](articles/高效能的小技巧.md)
 - [文字的力量 - 书、文章、电影、诗词摘抄](ThePowerofWords.md)
-- [脑洞：如果一切归零，如何东山再起](IfNothingWhatToDo.md)
 - [《肖申克的救赎》观后感](TheShawshankRedemption.md)
 - [有意思的云服务收藏夹](CloudServices.md)
