@@ -14,8 +14,9 @@
 - [IM ARCHITECTURE OPTIMIZATION (2017)](https://slides.com/georgezou/deck)
 - [Why Redux and How (2016)](https://slides.com/georgezou/why-redux)
 
-### 软件工程
+### 技术文章
 
+- [Vue 编码规范](./articles/Vue编码规范.md)
 - [工作流(Workflow) 与 流程(Process)的区别与联系](https://juejin.im/post/5efe7bab6fb9a07e9608bf8e)
 - [Vue3.0 性能优化及新特性深度解析](https://juejin.im/post/5ef576605188252e5c575645)
 - [我的轻敏捷技术管理方法论](./articles/我的轻敏捷技术管理方法论.md)

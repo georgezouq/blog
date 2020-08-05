@@ -15,6 +15,8 @@
 
 - [x] [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 - [x] 尽在双十一：阿里巴巴技术演进与超越
+- [ ] [软件设计哲学 A Philosophy of Software Design](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh/pulls?q=is%3Apr+is%3Aclosed)
+- [ ] [Kubernetes中文指南](https://github.com/rootsongjc/kubernetes-handbook)
 - [ ] UNIX程序设计艺术
 - [ ] [前端架构：从入门到微前端](https://book.douban.com/subject/33477112/)
 - [ ] 深入理解 ES6 [中文](https://github.com/OshotOkill/understandinges6-simplified-chinese) [English](https://leanpub.com/understandinges6/read)
@@ -89,8 +91,9 @@
 - [x] [霍乱时期的爱情 马尔克斯](https://book.douban.com/subject/10594787/)
 - [x] [纽约客 白先勇](https://book.douban.com/subject/5337243/)
 - [x] 我在西南联大的日子
+- [x] 沉默的大多数 王小波 
+- [ ] 黄金时代 王小波 
 - [ ] 安娜卡列宁娜
-- [ ] 沉默的大多数 王小波 
 - [ ] [万寿寺 王小波](https://book.douban.com/subject/27143188/)
 - [ ] 人间草木
 - [ ] 孽子 白先勇
@@ -128,7 +131,7 @@
 - [x] 🌟 [历代经济变革得失 吴晓波](https://book.douban.com/subject/24851460/)
 - [x] [江村经济 费孝通](https://book.douban.com/subject/20395460/)
 - [x] [乡下人的悲歌](https://book.douban.com/subject/27007881/) [书评](../articles/从文化角度思考美国底层的悲歌.md)
-- [ ] 社会学主要思潮
+- [ ] 🌟🌟🌟 社会学主要思潮
 - [ ] 方法论 笛卡尔
 - [ ] 微观动机与宏观行为
 - [ ] [Good Economics for Hard Times](https://book.douban.com/subject/33059616/)
