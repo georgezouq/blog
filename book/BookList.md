@@ -16,6 +16,9 @@
 - [x] [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 - [x] 尽在双十一：阿里巴巴技术演进与超越
 - [ ] [软件设计哲学 A Philosophy of Software Design](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh/pulls?q=is%3Apr+is%3Aclosed)
+- [ ] 算法导论
+- [ ] UNIX 环境高级编程
+
 - [ ] [Kubernetes中文指南](https://github.com/rootsongjc/kubernetes-handbook)
 - [ ] UNIX程序设计艺术
 - [ ] [前端架构：从入门到微前端](https://book.douban.com/subject/33477112/)
@@ -36,7 +39,6 @@
 - [ ] [网络是怎样连接的](https://book.douban.com/subject/26941639/)
 - [ ] 图解HTTP
 - [ ] 图解设计模式
-- [ ] UNIX 环境高级编程
 - [ ] 深入理解计算机系统
 
 ## 架构/软件工程/技术管理
@@ -46,7 +48,7 @@
 - [x] 企业IT架构转型之道：阿里巴巴中台战略思想与架构实战
 - [x] 🌟 领域驱动设计
 - [ ] 敏捷革命
-- [ ] 🌟🌟🌟 [人月神话](https://book.douban.com/subject/2230248/)
+- [ ] 🌟 [人月神话](https://book.douban.com/subject/2230248/)
 - [ ] [学习敏捷：构建高效团队](https://book.douban.com/subject/26979886/)
 - [ ] 软件熵
 - [ ] [人件](https://book.douban.com/subject/25956450/)
@@ -90,9 +92,10 @@
 - [x] 了不起的盖茨比
 - [x] [霍乱时期的爱情 马尔克斯](https://book.douban.com/subject/10594787/)
 - [x] [纽约客 白先勇](https://book.douban.com/subject/5337243/)
-- [x] 我在西南联大的日子
-- [x] 沉默的大多数 王小波 
-- [ ] 黄金时代 王小波 
+- [x] 我在西南联大的日子 汪曾祺 `汪老的书真不能饿着肚子看，我一直觉得画饼充饥是挺鸡肋的，饼画的不想让人也就没有了食欲。但如果你饼画的好，那真是越充饥越饿。`
+- [x] 🌟🌟 沉默的大多数 王小波 `王小波的小说和杂文总有一种独特的气质，通过刻骨铭心的故事使人保持对理性和常识的追求`
+- [x] 🌟 黄金时代 王小波 
+- [x] 🌟 活着 余华 `心理承受能力还是比较差，勉强打一星，实在太虐了` 
 - [ ] 安娜卡列宁娜
 - [ ] [万寿寺 王小波](https://book.douban.com/subject/27143188/)
 - [ ] 人间草木
@@ -126,14 +129,15 @@
 
 ## 社会/经济/政治
 
-- [x] 🌟🌟🌟 [跨越边界的社区: 北京“浙江村”的生活史 项飙](https://m.douban.com/book/subject/1051928/)
+- [x] 🌟🌟🌟 [跨越边界的社区: 北京“浙江村”的生活史 项飙](https://m.douban.com/book/subject/1051928/) `书中的概念和研究方法论倒是没咋记住，学了一肚子温州生意经`
 - [x] [菊与刀: 日本文化的类型](https://book.douban.com/subject/1022238/) 
 - [x] 🌟 [历代经济变革得失 吴晓波](https://book.douban.com/subject/24851460/)
 - [x] [江村经济 费孝通](https://book.douban.com/subject/20395460/)
 - [x] [乡下人的悲歌](https://book.douban.com/subject/27007881/) [书评](../articles/从文化角度思考美国底层的悲歌.md)
-- [ ] 🌟🌟🌟 社会学主要思潮
+- [x] 🌟🌟🌟 社会学主要思潮 `很棒的一本书，把人们对社会现象的解释讲解的很透彻，只是让我对马克思主义产生了深深的怀疑`
 - [ ] 方法论 笛卡尔
 - [ ] 微观动机与宏观行为
+- [ ] 改革的逻辑
 - [ ] [Good Economics for Hard Times](https://book.douban.com/subject/33059616/)
 - [ ] [黄河边的中国: 一个学者对乡村社会的观察与思考](https://baike.baidu.com/item/%E9%BB%84%E6%B2%B3%E8%BE%B9%E7%9A%84%E4%B8%AD%E5%9B%BD/854550?fr=aladdin)
 - [ ] [乡土中国 费孝通](https://book.douban.com/subject/20395476/)
@@ -157,6 +161,9 @@
 - [x] 刻意练习
 - [x] 思考快与慢
 - [x] 乌合之众
+- [ ] 人生十论 钱穆
+- [ ] 逻辑学是什么
+- [ ] 数学原理
 - [ ] 模型思维
 - [ ] 爱的博弈
 - [ ] 失败的逻辑
@@ -166,7 +173,7 @@
 ## 哲学/思想
 
 - [ ] 西西弗神话
-- [ ] 毛泽东选集
+- [ ] 🌟🌟🌟 毛泽东选集
 - [ ] 西方哲学史
 - [ ] 资本论
 - [ ] 中国哲学简史 
