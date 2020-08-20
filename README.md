@@ -2,9 +2,25 @@
 
 收集整理我的学习笔记、各类图书的读后感、每天的思考及脑洞。涉及电影、历史、政治、技术、架构、运营、市场等各个方面
 
-公众号 | 掘金 | 知乎专栏
----|---|---
-![pic](./images/qrcode/wechat_o.jpg) | [@跳动的神经元](https://juejin.im/user/5e41ddaa518825495f453735) | [@跳动的神经元](https://zhuanlan.zhihu.com/c_1235944211158945792)
+公众号 | 掘金 | 知乎专栏 | Github 博客
+---|---|---|---
+![pic](./images/qrcode/wechat_o.jpg) | [@跳动的神经元](https://juejin.im/user/5e41ddaa518825495f453735) | [@跳动的神经元](https://zhuanlan.zhihu.com/c_1235944211158945792) | [@跳动的神经元](https://github.com/georgezouq/blog)
+
+## 文章推荐
+
+#### [从BI项⽬实践思考软件复杂度控制的常⻅⽅法](./articles/从BI项目实践思考软件复杂度控制的常见方法.pdf)
+
+在我看来，软件工程所要解决的首要问题在于如何以一种合理的方式将项目、业务的复杂性控制到一个可维护、可迭代的范围内。这也是为什么，我们一直再讲 分层、高内聚、低耦合、单一职能...但是如何将这些概念运用在实际项目中...
+
+#### [How people use AI in finance](https://github.com/georgezouq/awesome-ai-in-finance)
+
+There are millions of trade made in the global financial market every day. Data grow very quickly and people are hard to understand. With the power of the latest artificial intelligence research, people analyze & trade automatically and intelligently...
+
+#### [光荣与梦想 美国社会的成长与彷徨](book/光荣与梦想.md)
+
+从节俭到消费；从农村到城市；从市区到郊区；从市中心的商场到郊区的工厂店；从迎合到叛逆；从保守到开放。这是美国战后随着经济发展一路的变化，对比我们有太多的相似之处...
+
+## 目录
 
 ### 技术分享 PPT
 
@@ -38,7 +54,7 @@
 ### 金融
 
 - [驾驭市场的随机性 —— 寻找确定性漩涡](./articles/混沌理论与金融市场寻找确定性漩涡.md)
-- [How people use AI in finance](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4)
+- [How people use AI in finance](https://github.com/georgezouq/awesome-ai-in-finance)
 - [量化日记: 数字货币的共识与不确定性](./articles/量化日记20180814.md)
 - [量化日记：指标实践及理解](./articles/量化日记20180811.md)
 - [量化日记：策略的坚持与变通](./articles/量化日记20180802.md)
