@@ -24,7 +24,7 @@
 - [ ] [前端架构：从入门到微前端](https://book.douban.com/subject/33477112/)
 - [ ] 深入理解 ES6 [中文](https://github.com/OshotOkill/understandinges6-simplified-chinese) [English](https://leanpub.com/understandinges6/read)
 - [ ] 高性能 JavaScript（High Performance JavaScript）
-
+- [ ] Problem Solving with Algorithms and Data Structures [pdf](./ebook/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
 - [ ] [重构：改善既有代码的设计](https://book.douban.com/subject/30468597/)
 - [ ] 程序员修炼之道: 从小工到专家
 - [ ] 具体数学：计算机科学基础（第 2 版）
@@ -95,7 +95,9 @@
 - [x] 我在西南联大的日子 汪曾祺 `汪老的书真不能饿着肚子看，我一直觉得画饼充饥是挺鸡肋的，饼画的不想让人也就没有了食欲。但如果你饼画的好，那真是越充饥越饿。`
 - [x] 🌟🌟 沉默的大多数 王小波 `王小波的小说和杂文总有一种独特的气质，通过刻骨铭心的故事使人保持对理性和常识的追求`
 - [x] 🌟 黄金时代 王小波 
-- [x] 🌟 活着 余华 `心理承受能力还是比较差，勉强打一星，实在太虐了` 
+- [x] 🌟 活着 余华 `心理承受能力还是比较差，勉强打一星，实在太虐了`
+- [x] 🌟 海边的卡夫卡
+- [x] 🌟 1984 `从未想过，人们对意识形态的追求如此强烈`
 - [ ] 安娜卡列宁娜
 - [ ] [万寿寺 王小波](https://book.douban.com/subject/27143188/)
 - [ ] 人间草木
