@@ -77,6 +77,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 杂文
 
+- [马男波杰克](./articles/马男波杰克.md)
 - [事物背后的逻辑](./articles/事物背后的逻辑.md)
 - [从文化角度思考美国底层的悲歌](./articles/从文化角度思考美国底层的悲歌.md)
 - [文学的悲喜](./articles/文学的悲喜.md)
