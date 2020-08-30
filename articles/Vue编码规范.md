@@ -177,9 +177,9 @@ props: ['status']
 ```
 - src
     - components
-        - BIChart
-            - hooks.js // BIChart目录中组件使用的所有 hook 函数放到这里
-            - BIChart.vue
+        - Table
+            - hooks.js // Table 组件使用的所有 hook 函数放到这里
+            - index.vue
     - hooks // 有可能全局使用的 hook 函数放到这里
     - views
 ```

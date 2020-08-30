@@ -49,12 +49,8 @@ There are millions of trade made in the global financial market every day. Data 
 - [2013年的一段演讲：思考React最佳实践](./talk/RethinkReactBasePractice.md)
 - [从 NPM 大数据看前端发展趋势](./talk/从NPM大数据看前端的发展趋势.md)
 - [锐途云架构设计资料集](ArchDesign.md)
-- [基于 Redis 的三总分布式爬虫策略](https://georgezouq.github.io/2016/06/27/%E5%9F%BA%E4%BA%8ERedis%E7%9A%84%E4%B8%89%E7%A7%8D%E5%88%86%E5%B8%83%E5%BC%8F%E7%88%AC%E8%99%AB%E7%AD%96%E7%95%A5/)
 - [从项目实践探寻IM客户端设计常见问题](./articles/im.md)
 - [技术驱动业务增长的几个方法](./articles/技术驱动业务增长的几个方法.md)
-
-- [ReactNative 的 1、2、3]()
-- [编程的未来 —— 业务领域模型与低代码平台]()
 
 ### 金融
 
