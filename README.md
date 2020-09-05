@@ -45,7 +45,7 @@ There are millions of trade made in the global financial market every day. Data 
 - [企业级业务架构设计](书评影评/企业级业务架构.md)
 - [软件工程奇淫巧技及优秀文章收藏夹](技术文章/软件工程奇淫巧集及优秀文章收藏夹.md)
 - [前端面试题集](https://github.com/georgezouq/interview)
-- [JS数据结构与算法 题解&笔记集](_note/algorithm/README.md)
+- [JS数据结构与算法题解笔记集](技术文章/JS数据结构与算法题解笔记集.md)
 - [2013年的一段演讲：思考React最佳实践](技术文章/思考React最佳实践.md)
 - [从 NPM 数据看前端发展趋势](技术文章/从NPM数据看前端的发展趋势.md)
 - [锐途云架构设计参考资料集](技术文章/锐途云架构设计参考资料集.md)
