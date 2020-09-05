@@ -1,10 +1,10 @@
 # 跳动的神经元
 
-收集整理我的学习笔记、各类图书的读后感、每天的思考及脑洞。涉及电影、历史、政治、技术、架构、运营、市场等各个方面
+收集整理我的学习笔记、各类图书的读后感、每天的思考及脑洞。涉及电影、历史、政治、技术、架构、运营、市场等各个方面，https://georgezou.gitbook.io/thought/
 
-公众号 | 掘金 | 知乎专栏 | Github 博客
----|---|---|---
-![pic](./images/qrcode/wechat_o.jpg) | [@跳动的神经元](https://juejin.im/user/5e41ddaa518825495f453735) | [@跳动的神经元](https://zhuanlan.zhihu.com/c_1235944211158945792) | [@跳动的神经元](https://github.com/georgezouq/blog)
+公众号 | GitBook
+---|---
+![pic](./images/qrcode/wechat_o.jpg) | [@跳动的神经元](https://georgezou.gitbook.io/thought/)
 
 ## 文章推荐
 
