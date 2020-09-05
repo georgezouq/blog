@@ -1,6 +1,6 @@
 # Table of contents
 
-* [跳动的神经元](README.md)
+* [目录](README.md)
 * [杂文](za-wen/README.md)
   * [文学的悲喜](za-wen/wen-xue-de-bei-xi.md)
   * [高效能的小技巧](za-wen/gao-xiao-neng-de-xiao-ji-qiao.md)
@@ -21,18 +21,20 @@
   * [从管仲变法到国企改革 —— 改革历代经济变革得失](shu-ping-ying-ping/cong-guan-zhong-bian-fa-dao-guo-qi-gai-ge-li-dai-jing-ji-bian-ge-de-shi.md)
   * [人类群星闪耀时](shu-ping-ying-ping/ren-lei-qun-xing-shan-yao-shi.md)
 * [技术文章](ji-shu-wen-zhang/README.md)
-  * [IM客户端设计常见问题](ji-shu-wen-zhang/im-ke-hu-duan-she-ji-chang-jian-wen-ti.md)
   * [大数据场景下图表组件的设计与思考](ji-shu-wen-zhang/da-shu-ju-chang-jing-xia-tu-biao-zu-jian-de-she-ji-yu-si-kao.md)
+  * [从BI项⽬实践思考软件复杂度控制的常⻅⽅法](https://github.com/georgezouq/blog/blob/e735e5140d2f9df05e543376fcf388e8b14fdda6/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E4%BB%8EBI%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E6%80%9D%E8%80%83%E8%BD%AF%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%A6%E6%8E%A7%E5%88%B6%E7%9A%84%E5%B8%B8%E8%A7%81%E6%96%B9%E6%B3%95.pdf)
   * [我的轻敏捷技术管理方法论](ji-shu-wen-zhang/wo-de-qing-min-jie-ji-shu-guan-li-fang-fa-lun.md)
+  * [How people use AI in finance](https://github.com/georgezouq/awesome-ai-in-finance)
+  * [Vue 编码规范](ji-shu-wen-zhang/vue-bian-ma-gui-fan.md)
+  * [IM客户端设计常见问题](ji-shu-wen-zhang/im-ke-hu-duan-she-ji-chang-jian-wen-ti.md)
   * [2013年的一段演讲：思考React最佳实践](ji-shu-wen-zhang/si-kao-react-zui-jia-shi-jian.md)
-  * [ArchDesign](ji-shu-wen-zhang/rui-tu-yun-jia-gou-she-ji-can-kao-zi-liao-ji.md)
+  * [锐途云架构设计参考资料集](ji-shu-wen-zhang/rui-tu-yun-jia-gou-she-ji-can-kao-zi-liao-ji.md)
   * [技术驱动业务增长的几个方法](ji-shu-wen-zhang/ji-shu-qu-dong-ye-wu-zeng-chang-de-ji-ge-fang-fa.md)
   * [技术团队管理细节](ji-shu-wen-zhang/ji-shu-tuan-dui-guan-li-xi-jie.md)
   * [JS的数据结构与算法 题解&笔记集](ji-shu-wen-zhang/js-shu-ju-jie-gou-yu-suan-fa-ti-jie-bi-ji-ji.md)
   * [从NPM大数据看前端的发展趋势](ji-shu-wen-zhang/cong-npm-shu-ju-kan-qian-duan-de-fa-zhan-qu-shi.md)
   * [软件工程奇淫巧集及优秀文章收藏夹](ji-shu-wen-zhang/ruan-jian-gong-cheng-qi-yin-qiao-ji-ji-you-xiu-wen-zhang-shou-cang-jia.md)
   * [超大型高并发系统架构的阿里经验](ji-shu-wen-zhang/chao-da-xing-gao-bing-fa-xi-tong-jia-gou-deali-jing-yan.md)
-  * [BI项目 编码规范](ji-shu-wen-zhang/vue-bian-ma-gui-fan.md)
 * [其他](qi-ta/README.md)
   * [有意思的云服务收藏夹](qi-ta/cloudservices.md)
   * [歌单](qi-ta/songlist.md)
@@ -44,4 +46,13 @@
   * [量化日记：策略的坚持与变通](jin-rong-liang-hua/liang-hua-ri-ji-20180802.md)
   * [量化日记：指标实践及理解](jin-rong-liang-hua/liang-hua-ri-ji-20180811.md)
 * [书单](shu-dan.md)
+
+## 文章推荐
+
+* [大数据场景下图表组件的设计与思考](https://georgezou.gitbook.io/thought/ji-shu-wen-zhang/da-shu-ju-chang-jing-xia-tu-biao-zu-jian-de-she-ji-yu-si-kao)
+
+---
+
+* [从BI项目实践思考软件复杂度控制的常见方法](https://github.com/georgezouq/blog/blob/e735e5140d2f9df05e543376fcf388e8b14fdda6/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E4%BB%8EBI%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E6%80%9D%E8%80%83%E8%BD%AF%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%A6%E6%8E%A7%E5%88%B6%E7%9A%84%E5%B8%B8%E8%A7%81%E6%96%B9%E6%B3%95.pdf)
+* [How people use AI in finance](https://github.com/georgezouq/awesome-ai-in-finance)
 

@@ -1,4 +1,4 @@
-# 跳动的神经元
+# 目录
 
 收集整理我的学习笔记、各类图书的读后感、每天的思考及脑洞。涉及电影、历史、政治、技术、架构、运营、市场等各个方面，[https://georgezou.gitbook.io/thought/](https://georgezou.gitbook.io/thought/)
 
