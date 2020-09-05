@@ -50,9 +50,6 @@
 ## 文章推荐
 
 * [大数据场景下图表组件的设计与思考](https://georgezou.gitbook.io/thought/ji-shu-wen-zhang/da-shu-ju-chang-jing-xia-tu-biao-zu-jian-de-she-ji-yu-si-kao)
-
----
-
 * [从BI项目实践思考软件复杂度控制的常见方法](https://github.com/georgezouq/blog/blob/e735e5140d2f9df05e543376fcf388e8b14fdda6/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E4%BB%8EBI%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5%E6%80%9D%E8%80%83%E8%BD%AF%E4%BB%B6%E5%A4%8D%E6%9D%82%E5%BA%A6%E6%8E%A7%E5%88%B6%E7%9A%84%E5%B8%B8%E8%A7%81%E6%96%B9%E6%B3%95.pdf)
 * [How people use AI in finance](https://github.com/georgezouq/awesome-ai-in-finance)
 
