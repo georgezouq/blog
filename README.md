@@ -2,9 +2,30 @@
 
 收集整理我的学习笔记、各类图书的读后感、每天的思考及脑洞。涉及电影、历史、政治、技术、架构、运营、市场等各个方面，[https://blog.tefact.com](https://blog.tefact.com)
 
-| 公众号 | GitBook | Github |
-| :--- | :--- | :--- |
-| ![pic](.gitbook/assets/wechat_o.jpg) | [@跳动的神经元](https://blog.tefact.com) | [@跳动的神经元](https://github.com/georgezouq/blog) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x516C;&#x4F17;&#x53F7;</th>
+      <th style="text-align:left">GitBook</th>
+      <th style="text-align:left">Github</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <img src=".gitbook/assets/wechat_o.jpg" alt="pic" />
+      </td>
+      <td style="text-align:left">
+        <p><a href="https://blog.tefact.com">@&#x8DF3;&#x52A8;&#x7684;&#x795E;&#x7ECF;&#x5143;</a> 
+        </p>
+        <p><a href="https://interview.tefact.com/">@&#x5927;&#x5382;&#x6DF1;&#x5EA6;&#x524D;&#x7AEF;&#x9762;&#x8BD5;&#x9898;</a>
+        </p>
+      </td>
+      <td style="text-align:left"><a href="https://github.com/georgezouq/blog">@&#x8DF3;&#x52A8;&#x7684;&#x795E;&#x7ECF;&#x5143;</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 文章推荐
 
@@ -42,9 +63,9 @@ There are millions of trade made in the global financial market every day. Data 
 * [Vue3.0 性能优化及新特性深度解析](https://juejin.im/post/5ef576605188252e5c575645)
 * [我的轻敏捷技术管理方法论](ji-shu-wen-zhang/wo-de-qing-min-jie-ji-shu-guan-li-fang-fa-lun.md)
 * [超大型高并发系统架构的阿里经验](ji-shu-wen-zhang/chao-da-xing-gao-bing-fa-xi-tong-jia-gou-deali-jing-yan.md)
+* [大厂深度前端面试题](https://interview.tefact.com/)
 * [企业级业务架构设计](shu-ping-ying-ping/qi-ye-ji-ye-wu-jia-gou.md)
 * [软件工程奇淫巧技及优秀文章收藏夹](ji-shu-wen-zhang/ruan-jian-gong-cheng-qi-yin-qiao-ji-ji-you-xiu-wen-zhang-shou-cang-jia.md)
-* [前端面试题集](https://github.com/georgezouq/interview)
 * [JS数据结构与算法题解笔记集](ji-shu-wen-zhang/js-shu-ju-jie-gou-yu-suan-fa-ti-jie-bi-ji-ji.md)
 * [2013年的一段演讲：思考React最佳实践](ji-shu-wen-zhang/si-kao-react-zui-jia-shi-jian.md)
 * [从 NPM 数据看前端发展趋势](ji-shu-wen-zhang/cong-npm-shu-ju-kan-qian-duan-de-fa-zhan-qu-shi.md)
@@ -83,7 +104,7 @@ There are millions of trade made in the global financial market every day. Data 
 * [书单](shu-dan.md)
 * [歌单](qi-ta/songlist.md)
 * [入世集 - 当代社会研究书单](shu-ping-ying-ping/ru-shi-ji.md)
-* [商业智能产品研究（1）—— 重新思考商业智能定义]()
+* [商业智能产品研究（1）—— 重新思考商业智能定义](./)
 * [高效工作/学习的小技巧](za-wen/gao-xiao-neng-de-xiao-ji-qiao.md)
 * [文字的力量 - 书、文章、电影、诗词摘抄](qi-ta/thepowerofwords.md)
 * [《肖申克的救赎》观后感](shu-ping-ying-ping/xiao-shen-ke-de-jiu-shu.md)
