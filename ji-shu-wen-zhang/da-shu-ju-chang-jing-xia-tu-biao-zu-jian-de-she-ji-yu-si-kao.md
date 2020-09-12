@@ -1,13 +1,21 @@
-# 大数据场景下图表组件的设计与思考
+# 大数据场景下图表组件的设计与优化
 
-最近在开发 BI（商业智能）平台，用户通过拖拽，以可视化配置的方式动态生成图表报表，在开发过程中图表组件为其中重要一环，需要考虑的场景：
+随着信息技术的发展，各种业务场景下数据量、数据维度极速增长，对于如何发觉数据的价值，找出数据之间关联的需求不断增加。BI（商业智能）平台通过拖拽，以可视化的方式将一个多维度展示需求通过转换合并，以表格的行或列的形式呈现。并将组合后的第一个维度作为图表轴，根据用户配置生成柱状、散点等图表。
+
+![&#x6839;&#x636E;&#x53EF;&#x89C6;&#x5316;&#x9700;&#x6C42;&#x751F;&#x6210;&#x6570;&#x636E;&#x5E93;&#x67E5;&#x8BE2;&#xFF0C;&#x9009;&#x62E9;&#x6240;&#x9700;&#x5B50;&#x96C6;&#xFF0C;&#x7ECF;&#x8FC7; &#x805A;&#x5408;&#x3001;&#x8FC7;&#x6EE4;&#x3001;&#x6392;&#x5E8F;&#x3001;&#x8868;&#x8BA1;&#x7B97;&#x540E;&#xFF0C;&#x63D0;&#x4F9B;&#x7ED9;&#x9875;&#x9762;&#x5C55;&#x73B0;\[1\]](../.gitbook/assets/8.png)
+
+在我们的BI产品研发过程中，图表组件为其中重要的一环，需要考虑前端组件在大数据量、强交互的场景下，组合图表矩阵实现实时渲染。
+
+![BI&#x4EA7;&#x54C1;&#x4EA4;&#x4E92;](../.gitbook/assets/7.gif)
+
+基于此需求，我们必须适配以下业务场景：
 
 * 复杂的功能交互
 * 大数据量
 * 动态配置的样式及展示效果
-* 渲染性能要求高
+* 较高的渲染性能要求
 
-为了更好的适配以上业务场景，我们基于 [Konva](https://github.com/konvajs/konva) 实现一套图表组件，参考 G.JS、Echarts、Konva 等图表及 Canvas 画图库的设计。研究了这些领先的图表组件中一些有意思的设计及优化方法，在下面与大家分享。
+为此我们基于 [Konva](https://github.com/konvajs/konva) 实现一套图表组件，参考 G/G2.JS、ZRender/Echarts、Charts.JS 等图表及 Canvas 渲染框架的设计。比较研究了这些领先的图表组件中一些有意思的设计及优化方法，结合我们自身实践经验，在下面与大家分享。
 
 ## 模拟浏览器渲染
 
@@ -60,9 +68,9 @@ canvas.addEventListener('click', (e) => {
 
 ### 两种方式的比较
 
-两种对事件处理的实现各有各的优缺点，在阿里的 [G.js](https://github.com/antvis/g) \(DataV & G6 的底层框架\) 是通过数学计算的方式实现。这种基于数学计算的模式对于元素的[拾取效率比较高](https://www.yuque.com/antv/ou292n/okxrus) 。但实现起来相对复杂，需要适配每一种图形，针对复杂模型，计算效率也不会很高。
+两种对事件处理的实现各有各的优缺点，在阿里的 [G.js](https://github.com/antvis/g) \(G2、G6 的底层渲染框架\) 是通过数学计算的方式实现。这种基于数学计算的模式对于元素的[拾取效率比较高](https://www.yuque.com/antv/ou292n/okxrus)\[8\] 。但实现起来相对复杂，需要适配每一种图形，针对复杂模型，计算效率也不会很高。
 
-在 Konva 等框架中则是通过第二种方式，通过识别颜色，增加一层 `HitCanvas` 实现事件机制。这种模式的优点在于实现、理解起来简单，但效率较数学计算低。这也是为什么 Konva 在官方文档的 [优化方案](https://konvajs.org/docs/performance/Listening_False.html) 中提到，对于不需要事件响应的元素可以通过 `listening(false)` 不将其加入 `HitCanvas` 以提高渲染效率。
+在 Konva 等框架中则是通过第二种方式，通过识别颜色，增加一层 `HitCanvas` 实现事件机制。这种模式的优点在于实现、理解起来简单，但效率较数学计算低，因为增加了一次渲染。这也是为什么 Konva 在官方文档的 [优化方案](https://konvajs.org/docs/performance/Listening_False.html) 中提到，对于不需要事件响应的元素可以通过 `listening(false)` 不将其加入 `HitCanvas` 以提高渲染效率。
 
 ## 渐进式图表
 
@@ -142,14 +150,24 @@ context.restore();
 * 避免使用 Shadow
 * 避免使用小数，以防止 Canvas 的锯齿消除操作
 
+## 总结
+
+上面介绍了在图表组件设计的过程中很多有意思的优化点。但同时我们也应该保持对优化的警惕，过度的优化并不会提高渲染性能，反而可能导致其他问题。同时在复杂的业务场景中保持代码可读性也是我们考虑的关键，良好的代码结构是保证框架、业务需求长期稳定的迭代的前提。我们之所以需要图表，其核心在于通过不同形式的组合发掘数据的价值，使用数据驱动业务的变革。上文提到的通过将多维度数据以组合的形式展示在表格的行和列之中。其本质在于将多维度数据降维展现在二维平面上，如果我们能在此组合的基础上基于 `WebGL` 提供基于三维空间的数据展示，一定能更有效的展现出信息之间的关联关系。提供更好的展示效果，任重而道远。
+
 ## 参考
 
-* [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs)
-* [The how and why on React’s usage of linked list in Fiber to walk the component’s tree](https://indepth.dev/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-to-walk-the-components-tree/)
-* [GPU 加速能做什么？](https://aotu.io/notes/2017/04/11/GPU/index.html)
+* \[1\] A System for Query, Analysis, and Visualization of Multidimensional Relational Databases 2002
+* \[2\] [手把手教你打造一款轻量级canvas渲染引擎](https://developers.weixin.qq.com/community/develop/article/doc/0002042bdf4620a0e9992528a51c13)
+* \[3\] [A declarative framework for rapid construction of web-based](https://www.researchgate.net/publication/325199078_ECharts_A_declarative_framework_for_rapid_construction_of_web-based_visualization)
+
+  [visualization](https://www.researchgate.net/publication/325199078_ECharts_A_declarative_framework_for_rapid_construction_of_web-based_visualization)
+
+* \[4\] [Hit Region Detection For HTML5 Canvas And How To Listen To Click Events On Canvas Shapes](https://lavrton.com/hit-region-detection-for-html5-canvas-and-how-to-listen-to-click-events-on-canvas-shapes-815034d7e9f8/)
+* \[5\] [The how and why on React’s usage of linked list in Fiber to walk the component’s tree](https://indepth.dev/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-to-walk-the-components-tree/)
+* \[6\] [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+* \[7\] [making-a-silky-smooth-web](https://speakerdeck.com/paullewis/making-a-silky-smooth-web?slide=1)
+* \[8\] [G 渲染改造](https://www.yuque.com/antv/ou292n/ezkcs4#JSGFr)
 * [making-a-silky-smooth-web](https://speakerdeck.com/paullewis/making-a-silky-smooth-web?slide=1)
-* [手把手教你打造一款轻量级canvas渲染引擎](https://developers.weixin.qq.com/community/develop/article/doc/0002042bdf4620a0e9992528a51c13)
-* [How to Improve React Konva Performance](https://medium.com/@j5/react-konva-performance-tuning-52e70ab15819)
-* [Hit Region Detection For HTML5 Canvas And How To Listen To Click Events On Canvas Shapes](https://lavrton.com/hit-region-detection-for-html5-canvas-and-how-to-listen-to-click-events-on-canvas-shapes-815034d7e9f8/)
-* [G 渲染改造](https://www.yuque.com/antv/ou292n/ezkcs4#JSGFr)
+
+
 
