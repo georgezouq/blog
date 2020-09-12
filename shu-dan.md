@@ -38,6 +38,7 @@
 * [ ] 图解HTTP
 * [ ] 图解设计模式
 * [ ] 深入理解计算机系统
+* [ ] The grammar of graphics [\[电子书\]](https://b-ok.global/book/1298868/697566?regionChanged=&redirect=27198845)
 
 ## 架构/软件工程/技术管理
 
