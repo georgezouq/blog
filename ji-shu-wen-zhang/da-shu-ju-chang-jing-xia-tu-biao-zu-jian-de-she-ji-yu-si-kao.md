@@ -33,7 +33,7 @@
 
 ![render-with-webworker](../.gitbook/assets/render-with-webworker.png)
 
-## 事件机制
+## 事件机制优化
 
 在开发图表框架的时候，对事件的处理是不可忽视的一环。由于在 Canvas 中绘制一个元素相当于使用 \[Immutable 模式\]\([https://en.wikipedia.org/wiki/Immediate\_mode\_\(computer\_graphics](https://en.wikipedia.org/wiki/Immediate_mode_%28computer_graphics)\)\) 绘制一个 Bitmap —— 元素全部变成像素，没有元素的概念了。既然没有原生的事件响应，常见的 Canvas 库中一般有两种元素事件的实现方式：
 
