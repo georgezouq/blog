@@ -10,5 +10,10 @@
 
 ## 台词
 
+#### Part1
+
 ![](../.gitbook/assets/b1.png) ![](../.gitbook/assets/b2.png) ![](../.gitbook/assets/b3.png) ![](../.gitbook/assets/b4.png) ![](../.gitbook/assets/b5.png) ![](../.gitbook/assets/b6.png) ![](../.gitbook/assets/b7.png) ![](../.gitbook/assets/b8.png) ![](../.gitbook/assets/b9.png) ![](../.gitbook/assets/b10.png)
 
+#### Part2
+
+![](../images/horseman/manan2.jpg)
