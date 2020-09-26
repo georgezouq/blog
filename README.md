@@ -27,23 +27,28 @@
   </tbody>
 </table>
 
-### 我的产品
+## 我的产品
 
-<table>
+<table style="width: 100%;">
     <tbody>
         <tr>
           <td style="text-align:center">
             <img src="./images/sq.png" alt="pic" />
-            <p><a href="https://sq.tefact.com/">新媒体创意营销平台</a></p>
+            <p style="text-align:center">
+                <a href="https://sq.tefact.com/">新媒体创意营销平台</a>
+            </p>
           </td>
           <td style="text-align:center">
             <img src="./images/tefact.png" alt="pic" width="177" />
-            <p><a href="https://github.com/Tefact/tefact-saas">企业级应用低代码平台</a></a>
+            <br />
+            <p style="text-align:center">
+                <a href="https://github.com/Tefact/tefact-saas">企业级应用低代码平台</a>
             </p>
           </td>
         </tr>
     </tbody>
 </table>
+
 ## 文章推荐
 
 #### [大数据场景下图表组件的设计与思考](ji-shu-wen-zhang/da-shu-ju-chang-jing-xia-tu-biao-zu-jian-de-she-ji-yu-si-kao.md)
