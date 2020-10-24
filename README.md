@@ -33,22 +33,18 @@
     <tbody>
         <tr>
             <td style="text-align:center" align="center">
-                <img src="./images/sq.png" alt="pic" width="177" />
-                <br />
-                <div style="text-align:center">
-                    <a href="https://sq.tefact.com/">新媒体创意营销平台</a>
-                </div>
+                <a href="https://sq.tefact.com/">
+                    <img src="./images/sq.png" alt="pic" width="177" />
+                </a>
             </td>
             <td style="text-align:center" align="center">
-                <img src="./images/tefact.png" alt="pic" width="177" />
-                <br />
-                <div style="text-align:center">
-                    <a href="https://github.com/Tefact/tefact-saas">企业级应用低代码平台</a>
-                </div>
+                <a href="https://github.com/Tefact/tefact-saas">
+                    <img src="./images/tefact.png" alt="pic" width="177" />
+                </a>
             </td>
             <td style="text-align:center" align="center">
                 <a href="https://github.com/Tefact/tefact-weekly">
-                    <img src="./images/tefact-weekly-qrcode.png" alt="pic" width="177" />
+                    <img src="./images/tefact-weekly.png" alt="pic" width="177" />
                 </a>
             </td>
         </tr>
