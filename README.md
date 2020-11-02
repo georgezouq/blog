@@ -107,6 +107,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 书评
 
+* [保持内心的平静 —— 读高瓴张磊新书《价值》](shu-ping-ying-ping/jia-zhi.md)
 * [从管仲变法到国企改革:《历代经济变革得失》](shu-ping-ying-ping/cong-guan-zhong-bian-fa-dao-guo-qi-gai-ge-li-dai-jing-ji-bian-ge-de-shi.md)
 * [《光荣与梦想》美国社会的成长与彷徨](shu-ping-ying-ping/guang-rong-yu-meng-xiang.md)
 * [从《叫魂案》与《万历十五年》窥探传统中国社会矛盾](za-wen/mingqing.md)
