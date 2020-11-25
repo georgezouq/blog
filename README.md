@@ -38,7 +38,7 @@
                 </a>
             </td>
             <td style="text-align:center" align="center">
-                <a href="https://github.com/Tefact/tefact-saas">
+                <a href="https://tefact.com">
                     <img src="./images/tefact.png" alt="pic" width="177" />
                 </a>
             </td>
