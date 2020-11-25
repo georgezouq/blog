@@ -47,6 +47,11 @@
                     <img src="./images/tefact-weekly.png" alt="pic" width="177" />
                 </a>
             </td>
+            <td style="text-align:center" align="center">
+                <a href="https://power-chart.com">
+                    <img src="./images/power-chart.png" alt="pic" width="177" />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -73,6 +78,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 技术分享 PPT
 
+* [一段数据的可视化之旅 - PowerChart预发布 \(2020\)](/技术文章/一段数据的可视化之旅-PowerChart预发布.pdf)
 * [从BI项⽬实践思考软件复杂度控制的常⻅⽅法 \(2020\)](https://github.com/georgezouq/blog/tree/e735e5140d2f9df05e543376fcf388e8b14fdda6/技术文章/从BI项目实践思考软件复杂度控制的常见方法.pdf)
 * [机器学习入门 之 股票价格时序数据分析 \(2017\)](https://slides.com/georgezou/title-text)
 * [自动化测试 之 单元测试 \(2017\)](https://slides.com/georgezou/unit-test)
