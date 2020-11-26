@@ -151,6 +151,7 @@
 * [x] [江村经济 费孝通](https://book.douban.com/subject/20395460/)
 * [x] [乡下人的悲歌](https://book.douban.com/subject/27007881/) [书评](za-wen/cong-wen-hua-jiao-du-si-kao-mei-guo-di-ceng-de-bei-ge.md)
 * [x] 🌟🌟🌟 社会学主要思潮 `很棒的一本书，把人们对社会现象的解释讲解的很透彻，只是让我对马克思主义产生了深深的怀疑`
+* [ ] 社会学的邀请 [@Linmiv 的笔记](https://www.notion.so/9291528048d343f2946da84e1931b648)
 * [ ] 方法论 笛卡尔
 * [ ] 微观动机与宏观行为
 * [ ] 改革的逻辑
