@@ -87,6 +87,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 技术文章
 
+* [致敬计算机先驱](ji-shu-wen-zhang/zhi-jing-ji-suan-ji-xian-qu.md)
 * [大数据场景下图表组件的设计与思考](ji-shu-wen-zhang/da-shu-ju-chang-jing-xia-tu-biao-zu-jian-de-she-ji-yu-si-kao.md)
 * [Vue 编码规范](ji-shu-wen-zhang/vue-bian-ma-gui-fan.md)
 * [工作流\(Workflow\) 与 流程\(Process\)的区别与联系](https://juejin.im/post/5efe7bab6fb9a07e9608bf8e)
@@ -141,4 +142,3 @@ There are millions of trade made in the global financial market every day. Data 
 * [文字的力量 - 书、文章、电影、诗词摘抄](qi-ta/thepowerofwords.md)
 * [《肖申克的救赎》观后感](shu-ping-ying-ping/xiao-shen-ke-de-jiu-shu.md)
 * [有意思的云服务收藏夹](qi-ta/cloudservices.md)
-
