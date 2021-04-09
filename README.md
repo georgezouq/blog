@@ -36,9 +36,14 @@
                 <a href="https://sq.tefact.com/">
                     <img src="./images/sq.png" alt="pic" width="177" />
                 </a>
-            </td>
+            </td> -->
             <td style="text-align:center" align="center">
-                <a href="https://tefact.com">
+                <a href="https://staringos.com">
+                    <img src="./images/StaringOS.png" alt="pic" width="177" />
+                </a>
+            </td>
+            <!-- <td style="text-align:center" align="center">
+                <a href="https://github.com/staringos/tefact-engine">
                     <img src="./images/tefact.png" alt="pic" width="177" />
                 </a>
             </td> -->
@@ -87,6 +92,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 技术文章
 
+* [关于星搭：你心所想，即是应用](https://staringos.com/docs/about)
 * [致敬计算机先驱](ji-shu-wen-zhang/zhi-jing-ji-suan-ji-xian-qu.md)
 * [大数据场景下图表组件的设计与思考](ji-shu-wen-zhang/da-shu-ju-chang-jing-xia-tu-biao-zu-jian-de-she-ji-yu-si-kao.md)
 * [Vue 编码规范](ji-shu-wen-zhang/vue-bian-ma-gui-fan.md)
