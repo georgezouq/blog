@@ -53,7 +53,7 @@
                 </a>
             </td>
             <td style="text-align:center" align="center">
-                <a href="https://power-chart.com">
+                <a href="https://github.com/georgezouq/blog/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E4%B8%80%E6%AE%B5%E6%95%B0%E6%8D%AE%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E6%97%85-PowerChart%E9%A2%84%E5%8F%91%E5%B8%83.pdf">
                     <img src="./images/power-chart.png" alt="pic" width="177" />
                 </a>
             </td>
