@@ -142,10 +142,10 @@ There are millions of trade made in the global financial market every day. Data 
 ### 其他
 
 * [书单](shu-dan.md)
-* [歌单](qi-ta/songlist.md)
 * [入世集 - 当代社会研究书单](shu-ping-ying-ping/ru-shi-ji.md)
 * [商业智能产品研究（1）—— 重新思考商业智能定义](./)
 * [高效工作/学习的小技巧](za-wen/gao-xiao-neng-de-xiao-ji-qiao.md)
 * [文字的力量 - 书、文章、电影、诗词摘抄](qi-ta/thepowerofwords.md)
 * [《肖申克的救赎》观后感](shu-ping-ying-ping/xiao-shen-ke-de-jiu-shu.md)
-* [有意思的云服务收藏夹](qi-ta/cloudservices.md)
+* [有意思的云服务收藏夹](https://github.com/georgezouq/awesome-saas)
+* [社交媒体AI机器人收藏夹](https://github.com/georgezouq/awosome-ai-in-social-media)
