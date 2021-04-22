@@ -18,8 +18,6 @@
       <td style="text-align:left">
         <p><a href="https://blog.tefact.com">@&#x8DF3;&#x52A8;&#x7684;&#x795E;&#x7ECF;&#x5143;</a> 
         </p>
-        <p><a href="https://interview.tefact.com/">@&#x5927;&#x5382;&#x6DF1;&#x5EA6;&#x524D;&#x7AEF;&#x9762;&#x8BD5;&#x9898;</a>
-        </p>
       </td>
       <td style="text-align:left"><a href="https://github.com/georgezouq/blog">@&#x8DF3;&#x52A8;&#x7684;&#x795E;&#x7ECF;&#x5143;</a>
       </td>
