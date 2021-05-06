@@ -139,6 +139,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 其他
 
+* [书单2021](https://www.notion.so/c2fa7cd024294d128c8b952f1e090e60?v=1f195d29966c4c4883e829c562debb0c)
 * [书单](shu-dan.md)
 * [入世集 - 当代社会研究书单](shu-ping-ying-ping/ru-shi-ji.md)
 * [商业智能产品研究（1）—— 重新思考商业智能定义](./)
