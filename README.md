@@ -77,6 +77,14 @@ There are millions of trade made in the global financial market every day. Data 
 
 从节俭到消费；从农村到城市；从市区到郊区；从市中心的商场到郊区的工厂店；从迎合到叛逆；从保守到开放。这是美国战后随着经济发展一路的变化，对比我们有太多的相似之处...
 
+## 近期
+
+* [《红高粱家族》](shu-ping-ying-ping/hong-gao-liang-jia-zu.md) 2021-05-09
+* [记与一个孩子的有趣对话](https://mp.weixin.qq.com/s?__biz=MzUzNzQwNjI1Ng==&mid=2247483787&idx=1&sn=5e9b2826a6e5bd5ead270e30896570dd&chksm=fae63fd4cd91b6c283b9c1a56bb21e7d0e99406e5275becb70e245e5e3710dde283b167efd6c&token=1173882900&lang=zh_CN#rd) 2021-04
+* [关于星搭：你心所想，即是应用](https://staringos.com/docs/about) 2021-03
+* [致敬计算机先驱](ji-shu-wen-zhang/zhi-jing-ji-suan-ji-xian-qu.md) 2021-01-24
+* [接手现有项目的几点想法](ji-shu-wen-zhang/接手现有项目的几点想法.md) 2020-05-13
+
 ## 目录
 
 ### 技术分享 PPT
@@ -90,8 +98,6 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 技术文章
 
-* [关于星搭：你心所想，即是应用](https://staringos.com/docs/about) 2021-03
-* [致敬计算机先驱](ji-shu-wen-zhang/zhi-jing-ji-suan-ji-xian-qu.md)
 * [大数据场景下图表组件的设计与思考](ji-shu-wen-zhang/da-shu-ju-chang-jing-xia-tu-biao-zu-jian-de-she-ji-yu-si-kao.md)
 * [Vue 编码规范](ji-shu-wen-zhang/vue-bian-ma-gui-fan.md)
 * [工作流\(Workflow\) 与 流程\(Process\)的区别与联系](https://juejin.im/post/5efe7bab6fb9a07e9608bf8e)
@@ -130,7 +136,6 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 杂文
 
-* [记与一个孩子的有趣对话](https://mp.weixin.qq.com/s?__biz=MzUzNzQwNjI1Ng==&mid=2247483787&idx=1&sn=5e9b2826a6e5bd5ead270e30896570dd&chksm=fae63fd4cd91b6c283b9c1a56bb21e7d0e99406e5275becb70e245e5e3710dde283b167efd6c&token=1173882900&lang=zh_CN#rd) 2021.4
 * [十一房车游记](https://mp.weixin.qq.com/s?__biz=MzUzNzQwNjI1Ng==&mid=2247483752&idx=1&sn=116a59b687b270c7e6b8e9de45b24946&chksm=fae63f37cd91b6214330da6ad3b2e48b87958e99f231734f476fa9088a9cfecff6ba1106e2bf&token=1658332771&lang=zh_CN#rd) 2020.10
 * [马男波杰克](shu-ping-ying-ping/ma-nan-bo-jie-ke.md)
 * [事物背后的逻辑](za-wen/shi-wu-bei-hou-de-luo-ji.md)
