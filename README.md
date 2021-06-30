@@ -79,8 +79,10 @@ There are millions of trade made in the global financial market every day. Data 
 
 ## 近期
 
+* [追太阳的人](./za-wen/yi-ze-sui-bi.md) 2021-06-19
+* [警局奇遇记](./za-wen/jing-ju-qi-yu-ji.md) 2021-06-16
 * [《红高粱家族》](shu-ping-ying-ping/hong-gao-liang-jia-zu.md) 2021-05-09
-* [记与一个孩子的有趣对话](https://mp.weixin.qq.com/s?__biz=MzUzNzQwNjI1Ng==&mid=2247483787&idx=1&sn=5e9b2826a6e5bd5ead270e30896570dd&chksm=fae63fd4cd91b6c283b9c1a56bb21e7d0e99406e5275becb70e245e5e3710dde283b167efd6c&token=1173882900&lang=zh_CN#rd) 2021-04
+* [与一个孩子的有趣对话](https://mp.weixin.qq.com/s?__biz=MzUzNzQwNjI1Ng==&mid=2247483787&idx=1&sn=5e9b2826a6e5bd5ead270e30896570dd&chksm=fae63fd4cd91b6c283b9c1a56bb21e7d0e99406e5275becb70e245e5e3710dde283b167efd6c&token=1173882900&lang=zh_CN#rd) 2021-04
 * [关于星搭：你心所想，即是应用](https://staringos.com/docs/about) 2021-03
 * [致敬计算机先驱](ji-shu-wen-zhang/zhi-jing-ji-suan-ji-xian-qu.md) 2021-01-24
 * [接手现有项目的几点想法](ji-shu-wen-zhang/接手现有项目的几点想法.md) 2020-05-13
