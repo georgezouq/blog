@@ -79,6 +79,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ## 近期
 
+* [李丰 - 简论中国产业升级的共通逻辑](./qi-ta/zhong-guo-chan-ye-sheng-ji.md) 2021-07-07
 * [追太阳的人](./za-wen/yi-ze-sui-bi.md) 2021-06-19
 * [警局奇遇记](./za-wen/jing-ju-qi-yu-ji.md) 2021-06-16
 * [《红高粱家族》](shu-ping-ying-ping/hong-gao-liang-jia-zu.md) 2021-05-09
