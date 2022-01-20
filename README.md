@@ -83,6 +83,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ## 近期
 
+* [从低代码平台设计，探索工具软件设计方法](ji-shu-wen-zhang/di-dai-ma-ping-tai.md)
 * [如何解决复杂问题](./ji-shu-wen-zhang/ru-he-jie-jue-wen-ti.md) 2021-12-09
 * [技术思维与业务思维](./ji-shu-wen-zhang/ji-shu-si-wei-yu-ye-wu-si-wei.md) 2021-07-15
 * [李丰 - 简论中国产业升级的共通逻辑](./qi-ta/zhong-guo-chan-ye-sheng-ji.md) 2021-07-07
@@ -132,8 +133,9 @@ There are millions of trade made in the global financial market every day. Data 
 * [量化日记：指标实践及理解](jin-rong-liang-hua/liang-hua-ri-ji-20180811.md)
 * [量化日记：策略的坚持与变通](jin-rong-liang-hua/liang-hua-ri-ji-20180802.md)
 
-### 书评
+### 书评 & 书摘
 
+* [我们的敌人与朋友 —— 《毛选》摘抄](shu-ping-ying-ping/wo-men-de-di-ren-yu-peng-you.md)
 * [保持内心的平静 —— 读高瓴张磊新书《价值》](shu-ping-ying-ping/jia-zhi.md)
 * [从管仲变法到国企改革:《历代经济变革得失》](shu-ping-ying-ping/cong-guan-zhong-bian-fa-dao-guo-qi-gai-ge-li-dai-jing-ji-bian-ge-de-shi.md)
 * [《光荣与梦想》美国社会的成长与彷徨](shu-ping-ying-ping/guang-rong-yu-meng-xiang.md)
@@ -154,6 +156,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 其他
 
+* [书单2022](https://www.notion.so/c2fa7cd024294d128c8b952f1e090e60?v=1f195d29966c4c4883e829c562debb0c)
 * [书单2021](https://www.notion.so/c2fa7cd024294d128c8b952f1e090e60?v=1f195d29966c4c4883e829c562debb0c)
 * [书单](shu-dan.md)
 * [入世集 - 当代社会研究书单](shu-ping-ying-ping/ru-shi-ji.md)
