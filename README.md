@@ -61,6 +61,10 @@
 
 ## 文章推荐
 
+#### [从低代码平台设计，探索工具软件设计方法](ji-shu-wen-zhang/di-dai-ma-ping-tai.md)
+
+文章总结了我对于低代码及工具软件设计的一些观点，包括：把生成代码作为的目标是伪命题、低代码的目标是无代码、功能性和易用性之间的权衡、不要让学习曲线过于陡峭、几乎所有功能都可以是插件、图灵完备是低代码平台的最高追求。
+
 #### [大数据场景下图表组件的设计与思考](ji-shu-wen-zhang/da-shu-ju-chang-jing-xia-tu-biao-zu-jian-de-she-ji-yu-si-kao.md)
 
 渐进式图表、事件机制、局部渲染，本文总结了主流图表组件在大数据量、强交互场景下打造高性能图表的设计与优化方法。
@@ -103,6 +107,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 技术文章
 
+* [从低代码平台设计，探索工具软件设计方法](ji-shu-wen-zhang/di-dai-ma-ping-tai.md)
 * [大数据场景下图表组件的设计与思考](ji-shu-wen-zhang/da-shu-ju-chang-jing-xia-tu-biao-zu-jian-de-she-ji-yu-si-kao.md)
 * [Vue 编码规范](ji-shu-wen-zhang/vue-bian-ma-gui-fan.md)
 * [工作流\(Workflow\) 与 流程\(Process\)的区别与联系](https://juejin.im/post/5efe7bab6fb9a07e9608bf8e)
