@@ -156,7 +156,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ### 其他
 
-* [书单2022](https://www.notion.so/c2fa7cd024294d128c8b952f1e090e60?v=1f195d29966c4c4883e829c562debb0c)
+* [书单2022](https://autumn-substance-673.notion.site/9405f2b73c8d49ce8220967d5e508177?v=cfc5fdf3c2604c1189c2fae11e87a186)
 * [书单2021](https://www.notion.so/c2fa7cd024294d128c8b952f1e090e60?v=1f195d29966c4c4883e829c562debb0c)
 * [书单](shu-dan.md)
 * [入世集 - 当代社会研究书单](shu-ping-ying-ping/ru-shi-ji.md)
