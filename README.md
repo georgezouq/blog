@@ -61,6 +61,10 @@
 
 ## 文章推荐
 
+#### [低代码平台设计之渲染器插件和运行时](ji-shu-wen-zhang/low-code-plugin-middleware-runtime.md)
+
+[上篇文章](https://github.com/georgezouq/blog/blob/master/ji-shu-wen-zhang/di-dai-ma-ping-tai.md) 谈到低代码平台设计的 - 道（战略设计），今天来谈一谈三个具体的功能模块设计，渲染器、插件和运行时
+
 #### [从低代码平台设计，探索工具软件设计方法](ji-shu-wen-zhang/di-dai-ma-ping-tai.md)
 
 文章总结了我对于低代码及工具软件设计的一些观点，包括：把生成代码作为的目标是伪命题、低代码的目标是无代码、功能性和易用性之间的权衡、不要让学习曲线过于陡峭、几乎所有功能都可以是插件、图灵完备是低代码平台的最高追求。
@@ -83,6 +87,7 @@ There are millions of trade made in the global financial market every day. Data 
 
 ## 近期
 
+* [低代码平台设计之渲染器插件和运行时](ji-shu-wen-zhang/low-code-plugin-middleware-runtime.md) 2022-05-05
 * [从低代码平台设计，探索工具软件设计方法](ji-shu-wen-zhang/di-dai-ma-ping-tai.md) 2022-01-20
 * [如何解决复杂问题](./ji-shu-wen-zhang/ru-he-jie-jue-wen-ti.md) 2021-12-09
 * [技术思维与业务思维](./ji-shu-wen-zhang/ji-shu-si-wei-yu-ye-wu-si-wei.md) 2021-07-15
