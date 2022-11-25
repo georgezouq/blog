@@ -40,11 +40,11 @@
                     <img src="./images/StaringOS.png" alt="pic" width="177" />
                 </a>
             </td> -->
-            <!-- <td style="text-align:center" align="center">
-                <a href="https://github.com/staringos/tefact-engine">
+            <td style="text-align:center" align="center">
+                <a href="https://staringos.com">
                     <img src="./images/tefact.png" alt="pic" width="177" />
                 </a>
-            </td> -->
+            </td>
             <td style="text-align:center" align="center">
                 <a href="https://github.com/Tefact/tefact-weekly">
                     <img src="./images/tefact-weekly.png" alt="pic" width="177" />
