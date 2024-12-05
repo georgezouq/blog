@@ -51,6 +51,10 @@
 
 ## 文章推荐
 
+#### [AI + 内容营销：打造营销新生产力！](https://github.com/georgezouq/blog/tree/e735e5140d2f9df05e543376fcf388e8b14fdda6/技术文章/AI时尚内容营销新生产力_compressed.pdf)
+
+朱啸虎说：AI 在营销行业的应用，现在已经不能叫拿着锤子找钉子了，而是一对钉子在等着锤子。这次分享，我们来聊聊AI与内容营销能擦出怎样的火花，分析如何让AI成为我们营销的新生产力。
+
 #### [低代码平台设计之渲染器插件和运行时](ji-shu-wen-zhang/low-code-plugin-middleware-runtime.md)
 
 [上篇文章](https://github.com/georgezouq/blog/blob/master/ji-shu-wen-zhang/di-dai-ma-ping-tai.md) 谈到低代码平台设计的 - 道（战略设计），今天来谈一谈三个具体的功能模块设计，渲染器、插件和运行时
