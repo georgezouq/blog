@@ -51,7 +51,7 @@
 
 ## 文章推荐
 
-#### [AI + 内容营销：打造营销新生产力！](https://github.com/georgezouq/blog/tree/e735e5140d2f9df05e543376fcf388e8b14fdda6/技术文章/AI时尚内容营销新生产力_compressed.pdf)
+#### [AI + 内容营销：打造营销新生产力！](https://github.com/georgezouq/blog/blob/master/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/AI%E6%97%B6%E5%B0%9A%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80%E6%96%B0%E7%94%9F%E4%BA%A7%E5%8A%9B_compressed.pdf)
 
 朱啸虎说：AI 在营销行业的应用，现在已经不能叫拿着锤子找钉子了，而是一对钉子在等着锤子。这次分享，我们来聊聊AI与内容营销能擦出怎样的火花，分析如何让AI成为我们营销的新生产力。
 
